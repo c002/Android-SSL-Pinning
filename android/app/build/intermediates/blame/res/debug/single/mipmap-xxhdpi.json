@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harlamba/Sapient/Projects/Ayco/POC/Github/Android-SSL-Pinning/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/harlamba/Sapient/Projects/Ayco/POC/Github/Android-SSL-Pinning/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/ssl-pinning/sslPinning/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/ssl-pinning/sslPinning/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

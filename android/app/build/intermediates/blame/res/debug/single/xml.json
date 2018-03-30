@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harlamba/Sapient/Projects/Ayco/POC/Github/Android-SSL-Pinning/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/harlamba/Sapient/Projects/Ayco/POC/Github/Android-SSL-Pinning/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/ssl-pinning/sslPinning/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/ssl-pinning/sslPinning/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/xml/preferences.xml"
+    }
+]
