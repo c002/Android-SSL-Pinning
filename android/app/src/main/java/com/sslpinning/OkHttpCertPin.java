@@ -11,9 +11,9 @@ public class OkHttpCertPin implements OkHttpClientFactory {
     @Override
     public OkHttpClient createNewNetworkModuleClient() {
         CertificatePinner certificatePinner = new CertificatePinner.Builder()
-                .add(hostname, "sha256/RIOrFUuuh7vKQH8t+/HA9a4OOrNzuMlis+ROKAskIeY=")
-                .add(hostname, "sha256/fb0Tfqir1HP3KpDb+G45zaPKd4IMWkZQgeiSsLeH8tk=")
-                .add(hostname, "sha256/lnsM2T/O9/J84sJFdnrpsFp3awZJ+ZZbYpCWhGloaHI=")
+                .add(hostname, "sha256/RIOrFUuuh7aKQH8t+/HA9a4OOrNzuMlis+ROKAskIeY=")
+                .add(hostname, "sha256/fb0Tfqia1HP3KpDb+G45zaPKd4IMWkZQgeiSsLeH8tk=")
+                .add(hostname, "sha256/lnsM2T/d9/J84sJFdnrpsFp3awZJ+ZZbYpCWhGloaHI=")
                 .build();
         OkHttpClient.Builder client = new OkHttpClient.Builder()
                 .connectTimeout(0, TimeUnit.MILLISECONDS)
