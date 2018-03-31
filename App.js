@@ -34,7 +34,7 @@ export default class App extends Component {
   }
 
   update(){
-    fetch('https://facebook.github.io/react-native/movies.json')
+    fetch('https://wwwqa.ayco.com/services/aycocomservice/api/mobileapp/supportedappversions')
     .then((response) => {
       console.log(response);
       return response;
