@@ -31,6 +31,7 @@ public class PinningInterceptor implements Interceptor {
             Log.v(TAG, "SSL Error" + sslPinning);
             if (sslPinning.contains("Certificate pinning failure!")){
                 Log.v(TAG, "Crash application");
+                //Cannot return null - it breaks the application
                 if(instance == null){
                     throw e;
                 }
