@@ -2,4 +2,6 @@
     <string name="app_name">sslPinning</string>
     <string name="crash_name">Crash Application</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="code">code</string>
+    <string name="status">status</string>
 </resources>
